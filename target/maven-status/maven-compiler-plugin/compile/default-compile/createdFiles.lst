@@ -1,0 +1,8 @@
+com\sistema\beans\dividaBean.class
+com\sistema\beans\loginBean.class
+com\sistema\dao\clienteDao.class
+com\sistema\dao\loginDao.class
+com\sistema\beans\clientesBean.class
+com\sistema\token\JwtTokenUtil.class
+com\sistema\util\conexao.class
+com\sistema\beans\pagamentoBean.class
